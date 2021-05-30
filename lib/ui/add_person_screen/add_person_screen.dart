@@ -6,6 +6,7 @@ import 'package:flutter_app5/database/daos/persons_dao.dart';
 import 'package:flutter_app5/provider/add_persons_provider.dart';
 import 'package:flutter_app5/widgets/member_avatar.dart';
 import 'package:flutter_app5/widgets/my_text_from_field.dart';
+import 'package:flutter_svg/svg.dart';
 import 'package:provider/provider.dart';
 
 import 'components/image_select_sheet.dart';
